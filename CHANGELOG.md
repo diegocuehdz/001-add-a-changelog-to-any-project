@@ -1,5 +1,12 @@
 
 
+## [1.3.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.2.1...1.3.0) (2025-03-18)
+
+
+### Features
+
+* fix typo in packagejson ([5b5726f](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/5b5726f9253d25b00d7be7addc5f62fc92a0093b))
+
 ## [1.2.1](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.2.0...1.2.1) (2022-07-08)
 
 
