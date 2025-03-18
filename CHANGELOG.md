@@ -1,3 +1,18 @@
+
+
+## [1.4.0](https://github.com/diegocuehdz/001-add-a-changelog-to-any-project/compare/1.3.2...1.4.0) (2025-03-18)
+
+
+### Features
+
+* add new description to package ([494e02f](https://github.com/diegocuehdz/001-add-a-changelog-to-any-project/commit/494e02f2c972cdbcc96b83ded55756dbe7102bc9))
+* **deps:** add is-ci lib to package ([dd8ad26](https://github.com/diegocuehdz/001-add-a-changelog-to-any-project/commit/dd8ad26267f7a25d6e79b9324fceb67d1f76edcf))
+
+
+### Bug Fixes
+
+* **ci:** rollback deps to see if that fixes issue ([52b01dd](https://github.com/diegocuehdz/001-add-a-changelog-to-any-project/commit/52b01dde78dfba22c4570ae62c049154eb4bbd06))
+
 # Changelog
 
 ## <small>1.3.2 (2025-03-18)</small>
