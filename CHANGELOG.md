@@ -1,4 +1,8 @@
+# Changelog
 
+## <small>1.3.2 (2025-03-18)</small>
+
+* chore(deps): update dependencies to latest ([ddd83b9](https://github.com/diegocuehdz/001-add-a-changelog-to-any-project/commit/ddd83b9))
 
 ## [1.3.1](https://github.com/diegocuehdz/001-add-a-changelog-to-any-project/compare/1.3.0...1.3.1) (2025-03-18)
 
