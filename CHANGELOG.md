@@ -1,5 +1,12 @@
 
 
+## [1.3.1](https://github.com/diegocuehdz/001-add-a-changelog-to-any-project/compare/1.3.0...1.3.1) (2025-03-18)
+
+
+### Bug Fixes
+
+* command on ci and change names ([dd7cda2](https://github.com/diegocuehdz/001-add-a-changelog-to-any-project/commit/dd7cda24ff475871bd3885147a83164ceab33530))
+
 ## [1.3.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.2.1...1.3.0) (2025-03-18)
 
 
